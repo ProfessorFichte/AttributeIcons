@@ -3,6 +3,7 @@ package net.attributeicons;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import net.combat_roll.api.CombatRoll;
+import net.critical_strike.api.CriticalStrikeAttributes;
 import net.fabric_extras.ranged_weapon.api.EntityAttributes_RangedWeapon;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.networking.v1.ClientPlayConnectionEvents;
@@ -114,6 +115,9 @@ public class AttributeIcons implements ModInitializer {
         CombatRoll.Attributes.all.forEach(entry -> {
             add(entry.id);
         });
+        CriticalStrikeAttributes.all.forEach(entry -> {
+            add(entry.id);
+        });
         EntityAttributes_RangedWeapon.all.forEach(entry -> {
             add(entry.id);
         });
@@ -124,7 +128,7 @@ public class AttributeIcons implements ModInitializer {
             add(entry.id);
         });
         SpellSchools.all().forEach(school -> {
-            if (school.ownsAttribute()) {
+            if (school.ownsAttribute() && school.getAttributeEntry() != null) {
                 add(school.getAttributeEntry().getKey().get().getValue());
             }
         });
