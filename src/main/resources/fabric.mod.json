@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "attributeicons",
+  "version": "${version}",
+  "name": "AttributeIcons",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/attributeicons/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "net.attributeicons.client.AttributeiconsDataGenerator"
+    ],
+    "client": [
+      "net.attributeicons.client.AttributeiconsClient"
+    ],
+    "main": [
+      "net.attributeicons.AttributeIcons"
+    ]
+  },
+  "mixins": [
+    "attribute_icons.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

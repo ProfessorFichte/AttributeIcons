@@ -1,0 +1,409 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.attack_range.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF933"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.armor.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF934"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.armor_toughness.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF935"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.attack_damage.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF936"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.attack_knockback.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF937"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.attack_speed.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF938"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/player.sweeping_damage_ratio.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF939"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.knockback_resistance.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF940"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.luck.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF941"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.max_health.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF942"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.movement_speed.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF943"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.jump_strength.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF944"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.gravity.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF945"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/generic.fall_damage_multiplier.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF946"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/player.mining_efficiency.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF947"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/player.block_break_speed.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF948"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/player.block_interaction_range.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF949"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:attribute_icon/player.entity_interaction_range.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF950"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "combat_roll:attribute_icon/distance.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF951"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "combat_roll:attribute_icon/recharge.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF952"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "combat_roll:attribute_icon/count.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF953"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "ranged_weapon:attribute_icon/damage.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF954"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "ranged_weapon:attribute_icon/pull_time.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF955"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "ranged_weapon:attribute_icon/haste.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF956"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "ranged_weapon:attribute_icon/velocity.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF957"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/critical_damage.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF958"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/critical_chance.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF959"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/haste.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF960"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/resistance.generic.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF961"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/generic.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF962"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/arcane.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF963"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/fire.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF964"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/frost.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF965"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/healing.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF966"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/lightning.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF967"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/soul.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF968"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/water.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF969"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/air.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF970"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/earth.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF971"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/blood.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF972"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/unholy.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF973"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_power:attribute_icon/holy.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF974"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_engine:attribute_icon/healing_taken.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF975"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_engine:attribute_icon/damage_taken.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF976"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "spell_engine:attribute_icon/evasion_chance.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"\uF977"
+			]
+		}
+	]
+}
